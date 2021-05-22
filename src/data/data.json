@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "oval",
+        "color": "red"
+    },
+    {
+        "id": 2,
+        "name": "oval",
+        "color": "blue"
+    },
+    {
+        "id": 3,
+        "name": "oval",
+        "color": "green"
+    },
+    {
+        "id": 4,
+        "name": "oval",
+        "color": "yellow"
+    },
+    {
+        "id": 5,
+        "name": "oval",
+        "color": "cyan"
+    },
+    {
+        "id": 6,
+        "name": "oval",
+        "color": "gray"
+    },
+    {
+        "id": 7,
+        "name": "round",
+        "color": "red"
+    },
+    {
+        "id": 8,
+        "name": "round",
+        "color": "blue"
+    },
+    {
+        "id": 9,
+        "name": "round",
+        "color": "green"
+    },
+    {
+        "id": 10,
+        "name": "round",
+        "color": "yellow"
+    },
+    {
+        "id": 11,
+        "name": "round",
+        "color": "cyan"
+    },
+    {
+        "id": 12,
+        "name": "round",
+        "color": "gray"
+    },
+    {
+        "id": 13,
+        "name": "triangle",
+        "color": "red"
+    },
+    {
+        "id": 14,
+        "name": "triangle",
+        "color": "blue"
+    },
+    {
+        "id": 15,
+        "name": "triangle",
+        "color": "green"
+    },
+    {
+        "id": 16,
+        "name": "triangle",
+        "color": "yellow"
+    },
+    {
+        "id": 17,
+        "name": "triangle",
+        "color": "cyan"
+    },
+    {
+        "id": 18,
+        "name": "triangle",
+        "color": "gray"
+    },
+    {
+        "id": 19,
+        "name": "square",
+        "color": "red"
+    },
+    {
+        "id": 20,
+        "name": "square",
+        "color": "blue"
+    },
+    {
+        "id": 21,
+        "name": "square",
+        "color": "green"
+    },
+    {
+        "id": 22,
+        "name": "square",
+        "color": "yellow"
+    },
+    {
+        "id": 23,
+        "name": "square",
+        "color": "cyan"
+    },
+    {
+        "id": 24,
+        "name": "square",
+        "color": "gray"
+    },
+    {
+        "id": 25,
+        "name": "rectangle",
+        "color": "red"
+    },
+    {
+        "id": 26,
+        "name": "rectangle",
+        "color": "blue"
+    },
+    {
+        "id": 27,
+        "name": "rectangle",
+        "color": "green"
+    },
+    {
+        "id": 28,
+        "name": "rectangle",
+        "color": "yellow"
+    },
+    {
+        "id": 29,
+        "name": "rectangle",
+        "color": "cyan"
+    },
+    {
+        "id": 30,
+        "name": "rectangle",
+        "color": "gray"
+    }
+]
