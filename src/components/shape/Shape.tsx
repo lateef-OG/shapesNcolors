@@ -1,13 +1,14 @@
 import React from "react";
 
 import { colors } from "../../constants/colors";
+import { ShapeInterface } from "../../types";
 
 import "./Shape.scss";
 
 const Shape = ({
   shape,
 }: {
-  shape: { id: number; name: string; color: string };
+  shape: ShapeInterface;
 }) => {
   const { name, color } = shape;
   const colorsMap: { [key: string]: string } = colors;
