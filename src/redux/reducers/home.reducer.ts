@@ -6,7 +6,7 @@ import {
 } from "../../constants/filters";
 import { Action, InitialState } from "../../types";
 
-const initialState: InitialState = {
+export const initialState: InitialState = {
   data,
   shapeFilters: [...shapeFilterOptions],
   colorFilters: [...colorFilterOptions],
