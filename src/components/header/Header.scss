@@ -10,4 +10,15 @@
     top: 0;
     left: 0;
     right: 0;
+    .logout-button{
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        color: #E0422C;
+        img{
+            height: 20px;
+            width: auto;
+            margin-left: 5px;
+        }
+    }
 }
