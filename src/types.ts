@@ -4,10 +4,14 @@ export interface ShapeInterface {
   color: string;
 }
 
-export interface InitialState {
+export interface HomeInitialState {
   data: ShapeInterface[];
   shapeFilters: string[];
   colorFilters: string[];
+}
+
+export interface AuthInitialState {
+  token: string;
 }
 
 export interface Action {

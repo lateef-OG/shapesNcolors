@@ -1,4 +1,4 @@
-import { SHAPES_FILTER, COLORS_FILTER } from "./actionTypes";
+import { SHAPES_FILTER, COLORS_FILTER } from "../actionTypes";
 
 export const filterShape = (shapeFilter: string) => {
   return {

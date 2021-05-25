@@ -1,5 +1,5 @@
 import * as actions from "./home.actions";
-import * as types from "./actionTypes";
+import * as types from "../actionTypes";
 
 describe("actions", () => {
   it("should create an action to filter by color", () => {

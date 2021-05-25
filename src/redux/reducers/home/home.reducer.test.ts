@@ -1,5 +1,5 @@
 import reducer, { initialState } from "./home.reducer";
-import * as types from "../actions/actionTypes";
+import * as types from "../../actions/actionTypes";
 
 describe("home reducer", () => {
   it("should handle COLORS_FILTER", () => {

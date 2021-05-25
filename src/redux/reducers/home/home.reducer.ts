@@ -1,13 +1,13 @@
-import data from "../../data/data.json";
-import { SHAPES_FILTER, COLORS_FILTER } from "../actions/actionTypes";
+import data from "../../../data/data.json";
+import { SHAPES_FILTER, COLORS_FILTER } from "../../actions/actionTypes";
 import {
   colorFilterOptions,
   shapeFilterOptions,
-} from "../../constants/filters";
-import { Action, InitialState } from "../../types";
-import { handleFiltering } from "../../util/helper";
+} from "../../../constants/filters";
+import { Action, HomeInitialState } from "../../../types";
+import { handleFiltering } from "../../../util/helper";
 
-export const initialState: InitialState = {
+export const initialState: HomeInitialState = {
   data,
   shapeFilters: [...shapeFilterOptions],
   colorFilters: [...colorFilterOptions],

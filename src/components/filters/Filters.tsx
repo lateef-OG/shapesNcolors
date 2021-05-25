@@ -2,7 +2,7 @@ import React from 'react';
 import "./Filters.scss";
 import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../../redux/reducers"
-import { filterShape, filterColor } from "../../redux/actions/home.actions";
+import { filterShape, filterColor } from "../../redux/actions/home/home.actions";
 
 import { colors } from "../../constants/colors";
 import { colorFilterOptions, shapeFilterOptions } from "../../constants/filters";
